@@ -9,7 +9,7 @@ setuptools.setup(
     author="Zhenya Ovchinnikov",
     description="Simplify downloading files from Telegram for PyTelegramBotAPI",
     long_description=long_description,
-    long_description_content_type="text/markdowm",
+    long_description_content_type="text/markdown",
     url="https://github.com/ZhenyaGOTL/Simplify-dowloading-files",
     project_urls={
         "Bug Tracker":"https://github.com/ZhenyaGOTL/Simplify-dowloading-files/issues",
