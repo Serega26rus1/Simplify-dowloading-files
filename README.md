@@ -26,6 +26,6 @@ This procedure request 4 required parameters and 1 not required.
 
 ##### Filename is filename from saving photo
 
-#####And *dir is if you need to save in another directory
+##### And *dir is if you need to save in another directory
 
 #### and GETDOCUMENT(token, bot, message, filename, *dir) has same parameters
