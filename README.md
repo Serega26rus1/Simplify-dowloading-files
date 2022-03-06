@@ -4,7 +4,7 @@ This is my first package. I hope - not last!
 
 You can use this package for downloading files from Telegram.
 
-###Install
+### Install
 
 You can pip for it
 
@@ -18,13 +18,13 @@ This package has 2 procedure(getphoto and getdocument).
 
 This procedure request 4 required parameters and 1 not required.
 
-#####Token is token for your telegram bot
+##### Token is token for your telegram bot
 
-#####Bot is your class instance from telebot module
+##### Bot is your class instance from telebot module
 
-#####Message is message with photo
+##### Message is message with photo
 
-#####Filename is filename from saving photo
+##### Filename is filename from saving photo
 
 #####And *dir is if you need to save in another directory
 
